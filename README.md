@@ -33,24 +33,24 @@
 :+1: <b>Some of my projects:</b>  
 <div>  
 Support (React, Redis, Docker, Nginx)<br/>
-<a href="https://sevcableport.ru/ru">sevcableport.ru</a><br/>
+<a target="_blank"href="https://sevcableport.ru/ru">sevcableport.ru</a><br/>
 <br/>
 Wordpress, Html, Scss, Jquery<br/>
-<a href="http://mehanikenn.ru/">mehanikenn.ru</a><br/>
-<a href="https://alfaleonis.org">alfaleonis.org</a><br/>
-<a href="http://vip-engineering.spb.ru">vip-engineering.spb.ru</a><br/>
+<a target="_blank"href="http://mehanikenn.ru/">mehanikenn.ru</a><br/>
+<a target="_blank"href="https://alfaleonis.org">alfaleonis.org</a><br/>
+<a target="_blank"href="http://vip-engineering.spb.ru">vip-engineering.spb.ru</a><br/>
 <br/>
 Html, Scss, Jquery<br/>
-<a href="http://deko-design.ru">deko-design.ru</a><br/>
+<a target="_blank"href="http://deko-design.ru">deko-design.ru</a><br/>
 Html, Scss<br/>  
-<a href="https://thirsty-jones-488e18.netlify.app">Example of HTML layout</a><br/>
+<a target="_blank"href="https://thirsty-jones-488e18.netlify.app">Example of HTML layout</a><br/>
 <br/>  
-Old projects (Php, MySQL, Html, Css)  
-<a href="https://www.valuta24.ru">www.valuta24.ru</a><br/>
-<a href="https://www.bmsk.ru">www.bmsk.ru</a><br/>
-<a href="http://www.autoneva.ru">www.autoneva.ru</a><br/>
+Old projects (Php, MySQL, Html, Css)<br/>
+<a target="_blank"href="https://www.valuta24.ru">www.valuta24.ru</a><br/>
+<a target="_blank"href="https://www.bmsk.ru">www.bmsk.ru</a><br/>
+<a target="_blank"href="http://www.autoneva.ru">www.autoneva.ru</a><br/>
 <br/>
-📞 Connect with me:  
-[<img src="./src/assets/images/telegramm.png"  height="60" alt="Telegramm">](https://t.me/dinichru) 
-[<img src="./src/assets/images/skype.png"  height="60" alt="Skype">](https://join.skype.com/invite/bkhzoYa5u2Pm) 
+📞 Connect with me:<br/>
+<a target="_blank"href="https://t.me/dinichru"><img src="./src/assets/images/telegramm.png"  height="60" alt="Telegramm"></a>
+<a target="_blank"href="https://join.skype.com/invite/bkhzoYa5u2Pm"><img src="./src/assets/images/skype.png"  height="60" alt="Skype"></a>
 </div>  
