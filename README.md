@@ -42,9 +42,9 @@ Wordpress, Html, Scss, Jquery<br/>
 <br/>
 Html, Scss, Jquery<br/>
 <a href="http://deko-design.ru">deko-design.ru</a><br/>
-Html, Scss  
+Html, Scss<br/>  
 <a href="https://thirsty-jones-488e18.netlify.app">Example of HTML layout</a><br/>
-  
+<br/>  
 Old projects (Php, MySQL, Html, Css)  
 <a href="https://www.valuta24.ru">www.valuta24.ru</a><br/>
 <a href="https://www.bmsk.ru">www.bmsk.ru</a><br/>
