@@ -1,6 +1,7 @@
 ## Hello, my name is Alexandr Sidorov
 # I'am a Web developer  
-## 🏆 Stack:  
+
+🏆 Stack:  
 <img src="./src/assets/images/html5.png"  height="60" alt="HTML5">
 <img src="./src/assets/images/css3.png"  height="60" alt="CSS3">
 <img src="./src/assets/images/sass.png"  height="60" alt="SASS">
@@ -12,7 +13,7 @@
 <img src="./src/assets/images/mysql.jpg"  height="60" alt="MySQL">
 <img src="./src/assets/images/postgresql.png"  height="60" alt="PostgreSQL">
 
-## 🔨 Tools:  
+🔨 Tools:  
 <img src="./src/assets/images/vscode.png"  height="60" alt="VSCode">
 <img src="./src/assets/images/github.png"  height="60" alt="GitHub">
 <img src="./src/assets/images/npm.png"  height="60" alt="NPM">
@@ -22,5 +23,28 @@
 👓 New things I'm about to learn:  
 <img src="./src/assets/images/nextjs.png"  height="60" alt="NextJS">
 
+:+1: Some of my projects:  
+[Support (React, Redis, Docker, Nginx)](https://sevcableport.ru/ru)  
+  
+Support (Wordpress, Html, Scss, Jquery):  
+[alfaleonis.org](https://alfaleonis.org/)  
+[megahomehealthcare.com](https://megahomehealthcare.com/)  
+  
+  
+Wordpress, Html, Scss, Jquery  
+[vip-engineering.spb.ru](http://vip-engineering.spb.ru/)  
+[mehanikenn.ru](http://mehanikenn.ru/)  
+  
+Html, Scss, Jquery  
+[deko-design.ru](http://deko-design.ru)  
+Html, Scss  
+[Example project](https://thirsty-jones-488e18.netlify.app)  
+  
+Old projects (Php, MySQL, Html, Css)  
+[www.valuta24.ru](https://www.valuta24.ru)  
+[www.bmsk.ru](https://www.bmsk.ru)  
+[www.autoneva.ru](http://www.autoneva.ru)  
+
+
 📞 Connect with me:  
-<img src="./src/assets/images/telegramm.png"  height="60" alt="Telegramm">
+[<img src="./src/assets/images/telegramm.png"  height="60" alt="Telegramm">](https://t.me/dinichru) 
