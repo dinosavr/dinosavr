@@ -14,7 +14,8 @@
 <img src="./src/assets/images/mysql.jpg"  height="60" alt="MySQL">
 <img src="./src/assets/images/postgresql.png"  height="60" alt="PostgreSQL">
 </div>
-
+  
+  
 🔨 **Tools:**    
 <div> 
 <img src="./src/assets/images/vscode.png"  height="60" alt="VSCode">
@@ -22,13 +23,16 @@
 <img src="./src/assets/images/npm.png"  height="60" alt="NPM">
 <img src="./src/assets/images/eslint.svg"  height="60" alt="Eslint">
 <img src="./src/assets/images/prettier.svg"  height="60" alt="Prettier">
+<img src="./src/assets/images/docker.png"  height="60" alt="Docker">
 </div> 
-
+  
+  
 👓 **New things I'm about to learn:**  
 <div> 
 <img src="./src/assets/images/nextjs.png"  height="60" alt="NextJS">
 </div> 
-
+  
+  
 :+1: **Some of my projects:**  
 Support (React, Redis, Docker, Nginx)  
 [SevcablePort.ru](https://sevcableport.ru/ru)  
