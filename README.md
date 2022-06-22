@@ -1,7 +1,7 @@
 ## Hello, my name is Alexandr Sidorov
 # I'am a Web developer  
 
-🏆 **Stack:**  
+🏆 <b>Stack:</b>  
 <div> 
 <img src="./src/assets/images/html5.png"  height="60" alt="HTML5">
 <img src="./src/assets/images/css3.png"  height="60" alt="CSS3">
@@ -13,10 +13,9 @@
 <img src="./src/assets/images/php.png"  height="60" alt="PHP">
 <img src="./src/assets/images/mysql.jpg"  height="60" alt="MySQL">
 <img src="./src/assets/images/postgresql.png"  height="60" alt="PostgreSQL">
-</div>
-\  
-\  
-🔨 **Tools:**    
+</div>  
+<br/>  
+🔨 <b>Tools:</b>
 <div> 
 <img src="./src/assets/images/vscode.png"  height="60" alt="VSCode">
 <img src="./src/assets/images/github.png"  height="60" alt="GitHub">
@@ -25,37 +24,33 @@
 <img src="./src/assets/images/prettier.svg"  height="60" alt="Prettier">
 <img src="./src/assets/images/docker.png"  height="60" alt="Docker">
 </div> 
-\  
-\  
-👓 **New things I'm about to learn:**  
+<br/>  
+👓 <b>New things I'm about to learn:</b>  
 <div> 
 <img src="./src/assets/images/nextjs.png"  height="60" alt="NextJS">
 </div> 
-\  
-\  
-:+1: **Some of my projects:**  
-Support (React, Redis, Docker, Nginx)  
-[SevcablePort.ru](https://sevcableport.ru/ru)  
-  
-Support (Wordpress, Html, Scss, Jquery)
-[alfaleonis.org](https://alfaleonis.org/)  
-[megahomehealthcare.com](https://megahomehealthcare.com/)  
-  
-  
-Wordpress, Html, Scss, Jquery  
-[vip-engineering.spb.ru](http://vip-engineering.spb.ru/)  
-[mehanikenn.ru](http://mehanikenn.ru/)  
-  
-Html, Scss, Jquery  
-[deko-design.ru](http://deko-design.ru)  
+<br/>  
+:+1: <b>Some of my projects:</b>  
+<div>  
+Support (React, Redis, Docker, Nginx)<br/>
+<a href="https://sevcableport.ru/ru">sevcableport.ru</a><br/>
+<br/>
+Wordpress, Html, Scss, Jquery<br/>
+<a href="http://mehanikenn.ru/">mehanikenn.ru</a><br/>
+<a href="https://alfaleonis.org">alfaleonis.org</a><br/>
+<a href="http://vip-engineering.spb.ru">vip-engineering.spb.ru</a><br/>
+<br/>
+Html, Scss, Jquery<br/>
+<a href="http://deko-design.ru">deko-design.ru</a><br/>
 Html, Scss  
-[Example project](https://thirsty-jones-488e18.netlify.app)  
+<a href="https://thirsty-jones-488e18.netlify.app">Example of HTML layout</a><br/>
   
 Old projects (Php, MySQL, Html, Css)  
-[www.valuta24.ru](https://www.valuta24.ru)  
-[www.bmsk.ru](https://www.bmsk.ru)  
-[www.autoneva.ru](http://www.autoneva.ru)  
-
-
+<a href="https://www.valuta24.ru">www.valuta24.ru</a><br/>
+<a href="https://www.bmsk.ru">www.bmsk.ru</a><br/>
+<a href="http://www.autoneva.ru">www.autoneva.ru</a><br/>
+<br/>
 📞 Connect with me:  
 [<img src="./src/assets/images/telegramm.png"  height="60" alt="Telegramm">](https://t.me/dinichru) 
+[<img src="./src/assets/images/skype.png"  height="60" alt="Skype">](https://join.skype.com/invite/bkhzoYa5u2Pm) 
+</div>  
