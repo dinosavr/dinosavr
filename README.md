@@ -1,7 +1,8 @@
 ## Hello, my name is Alexandr Sidorov
 # I'am a Web developer  
 
-🏆 Stack:  
+🏆 **Stack:**  
+  
 <img src="./src/assets/images/html5.png"  height="60" alt="HTML5">
 <img src="./src/assets/images/css3.png"  height="60" alt="CSS3">
 <img src="./src/assets/images/sass.png"  height="60" alt="SASS">
@@ -13,20 +14,22 @@
 <img src="./src/assets/images/mysql.jpg"  height="60" alt="MySQL">
 <img src="./src/assets/images/postgresql.png"  height="60" alt="PostgreSQL">
 
-🔨 Tools:  
+🔨 **Tools:**    
+  
 <img src="./src/assets/images/vscode.png"  height="60" alt="VSCode">
 <img src="./src/assets/images/github.png"  height="60" alt="GitHub">
 <img src="./src/assets/images/npm.png"  height="60" alt="NPM">
 <img src="./src/assets/images/eslint.svg"  height="60" alt="Eslint">
 <img src="./src/assets/images/prettier.svg"  height="60" alt="Prettier">
 
-👓 New things I'm about to learn:  
+👓 **New things I'm about to learn:**  
 <img src="./src/assets/images/nextjs.png"  height="60" alt="NextJS">
 
-:+1: Some of my projects:  
-[Support (React, Redis, Docker, Nginx)](https://sevcableport.ru/ru)  
+:+1: **Some of my projects:**  
+Support (React, Redis, Docker, Nginx)  
+[SevcablePort.ru](https://sevcableport.ru/ru)  
   
-Support (Wordpress, Html, Scss, Jquery):  
+Support (Wordpress, Html, Scss, Jquery)
 [alfaleonis.org](https://alfaleonis.org/)  
 [megahomehealthcare.com](https://megahomehealthcare.com/)  
   
