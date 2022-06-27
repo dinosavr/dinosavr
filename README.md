@@ -27,7 +27,7 @@
 <br/>  
 👓 <b>New things I'm about to learn:</b>  
 <div> 
-<img src="./src/assets/images/nextjs.png"  height="60" alt="NextJS">
+<img src="./src/assets/images/node.png"  height="60" alt="NextJS">
 </div> 
 <br/>  
 :+1: <b>Some of my projects:</b>  
