@@ -32,7 +32,7 @@
 <br/>  
 :+1: <b>Some of my projects:</b>  
 <div>  
-Support (React, Redis, Docker, Nginx)<br/>
+Support (React, NextJS, Redis, Docker, Nginx)<br/>
 <a target="_blank"href="https://sevcableport.ru/ru">sevcableport.ru</a><br/>
 <br/>
 Wordpress, Html, Scss, Jquery<br/>
