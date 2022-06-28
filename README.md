@@ -12,8 +12,8 @@
 <img src="./src/assets/images/angular.svg"  height="60" alt="Angular">
 <img src="./src/assets/images/php.png"  height="60" alt="PHP">
 <img src="./src/assets/images/mysql.jpg"  height="60" alt="MySQL">
-<img src="./src/assets/images/postgresql.png"  height="60" alt="PostgreSQL"><br/>
-<a target="_blank"href="https://www.codewars.com/users/dinosavr/"><img src="https://www.codewars.com/users/dinosavr/badges/small"  alt="CodeWars"></a>
+<img src="./src/assets/images/postgresql.png"  height="60" alt="PostgreSQL"><br/><br/>
+&nbsp;&nbsp;<a target="_blank"href="https://www.codewars.com/users/dinosavr/"><img src="https://www.codewars.com/users/dinosavr/badges/small"  alt="CodeWars"></a>
 </div>  
 <br/>  
 🔨 <b>Tools:</b>
