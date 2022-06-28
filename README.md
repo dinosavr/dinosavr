@@ -52,5 +52,6 @@ Old projects (Php, MySQL, Html, Css)<br/>
 <br/>
 📞 Connect with me:<br/>
 <a target="_blank"href="https://t.me/dinichru"><img src="./src/assets/images/telegramm.png"  height="60" alt="Telegramm"></a>
-<a target="_blank"href="https://join.skype.com/invite/bkhzoYa5u2Pm"><img src="./src/assets/images/skype.png"  height="60" alt="Skype"></a>
+<a target="_blank"href="https://join.skype.com/invite/bkhzoYa5u2Pm"><img src="./src/assets/images/skype.png"  height="60" alt="Skype"></a><br/>
+<a target="_blank"href="https://www.codewars.com/users/dinosavr/"><img src="https://www.codewars.com/users/dinosavr/badges/large"  alt="CodeWars"></a>
 </div>  
